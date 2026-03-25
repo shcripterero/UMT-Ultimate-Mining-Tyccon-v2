@@ -4,10 +4,10 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "UMT GUI",
+    Name = " By RscriptsX / UMT",
     Icon = "pickaxe",
-    LoadingTitle = "Ultimate Mining Tycoon",
-    LoadingSubtitle = "Loading modules...",
+    LoadingTitle = "By RscriptsX",
+    LoadingSubtitle = "RscriptsX / Loading script...",
     Theme = "Default",
     ConfigurationSaving = {
         Enabled = true,
