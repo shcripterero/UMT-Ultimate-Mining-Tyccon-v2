@@ -254,7 +254,7 @@ PlayerTab:CreateSection("Movement")
 
 PlayerTab:CreateSlider({
     Name = "Walk Speed",
-    Range = {1, 150},
+    Range = {1, 500},
     Increment = 1,
     Suffix = "",
     CurrentValue = 16,
